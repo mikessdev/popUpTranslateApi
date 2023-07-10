@@ -1,5 +1,5 @@
 # popUpTranslateApi
-
+This API basically does the web scraping of the google translate page.
 
 
 ## how to test this api:
