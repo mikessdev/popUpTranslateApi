@@ -6,6 +6,9 @@
 
 ### Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 20.4.0
+- Install Google Chrome or some other Chromium-based browser.
+
+How to install chrome in WSL [link](https://pt.wikihow.com/Instalar-o-Google-Chrome-Usando-o-Terminal-no-Linux)
 
 ### step 1: 
 In the terminal run: 

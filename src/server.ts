@@ -21,6 +21,5 @@ const response = async (JsonParams: any): Promise<Translate> => {
 }
 
 route.get('/', async (req: Request, res: Response) => {
-  
   res.json(await response(req.query.translationOrder))
 })
